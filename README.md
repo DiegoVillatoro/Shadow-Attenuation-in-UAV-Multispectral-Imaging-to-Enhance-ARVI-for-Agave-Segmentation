@@ -3,7 +3,7 @@ Segmentation of Agave plants using ARVI with UAV multispectral images
 
 Related paper:
 
-Data can be downloaded in: 
+Data can be downloaded in: https://figshare.com/s/bf74681957a2e3c20ba1
 The data of the images are tif files with the multispectral data of the image
 The image size is 224x224, it means the shape of the corresponding file is (9, 224, 224)
 
